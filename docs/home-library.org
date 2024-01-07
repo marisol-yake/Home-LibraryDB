@@ -10,9 +10,9 @@
 Marisol Y. & Link O.
 
 ** Project Next Steps
-- TODO Setup github repo
 - TODO Plan app happy path
-- TODO Make more TODO items
+- TODO Add text file of random ISBNs for testing DB
+- TODO Plan ER diagram for "books"
 
 ** Technologies Implemented
 
