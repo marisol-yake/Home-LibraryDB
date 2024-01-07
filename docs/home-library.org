@@ -18,3 +18,4 @@ Marisol Y. & Link O.
 
 
 ** Project Accomplishments
++ Setup our lovely little github repo!
