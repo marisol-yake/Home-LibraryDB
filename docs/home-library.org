@@ -18,4 +18,5 @@ Marisol Y. & Link O.
 
 
 ** Project Accomplishments
-+ Setup our lovely little github repo!
++ [2024-01-06] Setup our lovely little github repo!
++ [2024-01-06] Merged our first PR for the project.
